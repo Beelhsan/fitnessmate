@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextConfirmPassword" type="id">editTextConfirmPassword</item>
+    <item name="editTextPassword" type="id">editTextPassword</item>
+    <item name="calculate_button" type="id">calculate_button</item>
+    <item name="weight_edit_text" type="id">weight_edit_text</item>
+    <item name="height_edit_text" type="id">height_edit_text</item>
+    <item name="age_edit_text" type="id">age_edit_text</item>
+    <item name="editText_age" type="id">editText_age</item>
+    <item name="editText_height" type="id">editText_height</item>
+    <item name="editText_weight" type="id">editText_weight</item>
+    <item name="button_calculate" type="id">button_calculate</item>
+    <item name="textView_calorie" type="id">textView_calorie</item>
+</resources>

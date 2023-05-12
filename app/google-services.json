@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811625301697",
+    "project_id": "fitnessmate-c8d4c",
+    "storage_bucket": "fitnessmate-c8d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811625301697:android:ef8b52ea7e8bf95edfb640",
+        "android_client_info": {
+          "package_name": "com.example.fitnessmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811625301697-thulbn1mgl950kck9ct38fr7td87dilt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtmaZ3kDT4APT1_npxRSmMLOX6lxQ4KPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811625301697-thulbn1mgl950kck9ct38fr7td87dilt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
